@@ -1,4 +1,4 @@
-# Opa ! , Me chamo Richard Fernandes 
+# Opa !, me chamo Richard Fernandes 
 
 
 #### "Os desafios que enfrentamos são os degraus que nos levam ao topo, nos moldando e preparando para os triunfos que estão por vir."
