@@ -22,5 +22,6 @@ print('Uma coisa aleatoria sobre', nome,'é que ele gosta do personagem Jake de 
  
  [![Blog](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardfernandesjjz/?_l=pt_BR)
 [![Blog](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richard.jjz/)
+[![Blog](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About&logoColor=white)](https://richardfernandesj.github.io/projeto-site/)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardFernandesJ&layout=compact&langs_count=16&theme=dark)
